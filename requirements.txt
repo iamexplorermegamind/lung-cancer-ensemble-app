@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-tensorflow
+tensorflow==2.16.0rc1
 numpy==1.24.3
 pillow==9.5.0
 
